@@ -1,1 +1,1 @@
-This is ASP.NET simple Gamestore CRUD web Frontend.  
+This is ASP.NET simple Gamestore CRUD web Frontend with Balzor.  
